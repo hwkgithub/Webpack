@@ -1,4 +1,11 @@
 /*
+ * @Description: 
+ * @Autor: HWK
+ * @Date: 2020-06-30 16:36:52
+ * @LastEditors: HWK
+ * @LastEditTime: 2020-07-01 16:45:40
+ */ 
+/*
   index.js: webpack入口起点文件
 
   1. 运行指令：
@@ -20,7 +27,7 @@ import data from './data.json';
 console.log(data);
 
 function add(x, y) {
-  return x + y;
+    return x + y;
 }
 
 console.log(add(1, 2));

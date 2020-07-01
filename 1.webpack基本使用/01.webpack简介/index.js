@@ -5,5 +5,5 @@ import './index.less';
 // 引入图片、字体等其他资源
 
 $('#title').click(() => {
-  $('body').css('backgroundColor', 'deeppink');
+    $('body').css('backgroundColor', 'deeppink');
 })
